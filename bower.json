@@ -1,0 +1,9 @@
+{
+  "name": "3d-box-animation",
+  "private": true,
+  "dependencies": {
+    "jquery": "*",
+    "velocity": "*"
+  },
+  "devDependencies": {}
+}
