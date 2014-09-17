@@ -5,6 +5,6 @@ $ ->
     rotateX: '360deg'
     rotateY: '360deg'
   ,
-    duration: 5000
+    duration: 8000
     loop: false
     easing: 'linear'
